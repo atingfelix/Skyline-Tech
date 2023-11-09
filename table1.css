@@ -28,7 +28,6 @@ caption{
 
 th{
     background-color: dodgerblue;
-    color: white;
 }
 
 td, th{
@@ -53,7 +52,7 @@ tr:hover{
 }
 
 .mark{
-    background-color: lightgreen;
+    background-color: dodgerbleu;
     padding: 5px;
     border-radius: 8px;
 }
