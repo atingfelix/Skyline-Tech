@@ -1,0 +1,70 @@
+.container{
+    width: 60%;
+    margin: auto;
+    padding-top: 40px;
+}
+
+
+table, th, td{
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+    border-color: lightgray;
+ 
+}
+
+table{
+    width: 100%;
+}
+
+caption{
+    background-color: yellow;
+    width: 40%;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+td, th{
+    padding: 15px;
+}
+
+i{
+    color: green;
+    font-weight: bold;
+}
+
+
+.icon i{
+    color: red;
+    font-size: 18px;
+}
+
+
+
+tr:hover{
+    background-color: darkgrey;
+}
+
+.mark{
+    background-color: lightgreen;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
