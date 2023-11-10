@@ -1,5 +1,5 @@
 # Student Exam Grade
-Is used to evaluate and provide feedback on student work.
+Is used to evaluate and provide feedback on students work.
 
 # Function 
 To communicate the achievement status of the students to thier parents and other stakeholders.
