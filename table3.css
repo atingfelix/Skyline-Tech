@@ -1,0 +1,49 @@
+table, td, th{
+    border-top: 1px solid;
+    border-collapse: collapse;
+    color: white;
+    border-color: gray;
+}
+
+
+.container{
+    width: 80%;
+    margin: auto;
+    padding: 40px;
+}
+
+
+table{
+    width: 100%;
+}
+
+
+th{
+    background-color: dodgerblue;
+    font-size: 18px;
+}
+
+th, td{
+    padding: 10px;
+}
+
+td{
+    color: black;
+    background-color: gray;
+    border-color: black;
+}
+
+
+caption{
+    background-color: rgb(209, 209, 14);
+    width: 50%;
+    padding: 8px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+    
+}
